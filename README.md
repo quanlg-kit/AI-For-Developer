@@ -1,7 +1,3 @@
-# Hướng dẫn chi tiết 8 Module khóa học "Ứng dụng AI cho Developers"
-
-Dựa trên nội dung khóa học đã tổng hợp, tôi sẽ trình bày chi tiết từng module với hướng dẫn step-by-step và ví dụ thực hành.
-
 ## **Module 01: Basic LLMs & Prompts, LM Studio**
 
 ### **Bài 1.1: Hiểu về LLMs và cơ chế hoạt động**
